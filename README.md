@@ -1,5 +1,9 @@
 # MessagerApp
-First commit
+
+Run application:
+
+run start.sh
+
 #The use case for this task is as bellow:
 1. create 2 players
 2. wait until both players are "ready"
